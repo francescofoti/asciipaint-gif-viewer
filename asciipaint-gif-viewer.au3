@@ -18,7 +18,7 @@ Version notes
 
 AutoIT: v3.3.6.1
 Platform: Win7+
-Author: Francesco Foti (francesco.foti@devinfo.net)
+Author: Francesco Foti (twitter @unraveledbytes)
 Copyright (C) 2021 Francesco Foti
 
 This source file is UTF-8 encoded.
