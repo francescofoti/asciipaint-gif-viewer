@@ -70,7 +70,7 @@ Global $goError = ObjEvent("AutoIt.Error", "_ErrFunc")
 
 ;Consoul's dll and output window
 Global $ghConsole = 0
-Global $gsConsoulDLL = "consoul_010203_32.dll"
+Global $gsConsoulDLL = "consoul_010205_32.dll"
 Global $ghConsoulLibrary
 ;viewer globals
 Global $gsConFontName
